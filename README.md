@@ -1,0 +1,1 @@
+# day24-content-placeholder
